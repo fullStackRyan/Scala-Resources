@@ -7,13 +7,17 @@ One of the best Scala Developers I have ever met said he learnt Scala by just re
 ## Books
 
 * Functional Programming, Simplified - Alvin Alexander
-*   This book is fantastic and answers many questions I had as a junior such as "How can there be no side-effects?"
+<p> This book is fantastic and answers many questions I had as a junior such as "How can there be no side-effects?"</p>
+
 *   Essential Scala - Noel Welsh and Dave Gurnell (Underscore)
-*     Underscore have a number of great free books and courses. This book is responsible for helping me understand implicits just in time for the Scala 3 givens release haha
+Underscore have a number of great free books and courses. This book is responsible for helping me understand implicits just in time for the Scala 3 givens release haha
+
 *   Essential Effects - Adam Rosien
-*     I've bought the book but haven't got round to reading it yet but from what I understand this book helps shed light on the Cats Effect Library
+I've bought the book but haven't got round to reading it yet but from what I understand this book helps shed light on the Cats Effect Library
+
 *    Functional Programming in Scala - Paul Chiusano and Runar Bjarnason
-*     
+
+
 
 
 ## Udemy Course
