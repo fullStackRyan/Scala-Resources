@@ -1,6 +1,11 @@
 # Scala-Resources
 
-### If you like this read me, please take a moment to star the repo. Also if you would like to recommend any other resources, please create a PR.
+<div align="center">
+      <hr>
+If you like this read me, please take a moment to star the repo. Also if you would like to recommend any other resources, please create a PR.
+      <hr>
+</div>
+
 
 One of the best Scala Developers I have ever met said he learnt Scala by reading the docs, so that's always a great place to start. But if you're like me, you'll need a little more help. I have compiled a list of books and video tutorials which have helped me along my Scala journey; I hope it helps you too :)
 
