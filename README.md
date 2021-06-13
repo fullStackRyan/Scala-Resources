@@ -11,7 +11,7 @@ One of the best Scala Developers I have ever met said he learnt Scala by reading
 
 *   Essential Scala - Noel Welsh and Dave Gurnell (Underscore)
 
-<p> Underscore have a number of great free books and courses. This book is responsible for helping me understand implicits </p>
+<p> Underscore have a number of great free books and courses. This book is responsible for helping me understand implicits</p>
 
 *   Essential Effects - Adam Rosien
 <p> I've bought the book but haven't got round to reading it yet but from what I understand this book helps shed light on the Cats Effect Library</p>
@@ -25,13 +25,13 @@ One of the best Scala Developers I have ever met said he learnt Scala by reading
 
 ## Udemy Courses
 
-<p>I start with Scala Applied because these course provide a great overview of the scala language in short 2-3 min videos</p>
+<p>As a complete beginner, I'd start with Scala Applied because these courses provide a great overview of the scala language in short 2-3 min videos</p>
 
 * [Scala Applied, Part 1](https://www.udemy.com/course/stairway-to-scala-applied-part-1/)
 * [Scala Applied, Part 2](https://www.udemy.com/course/stairway-to-scala-applied-part-2/)
 * [Scala Applied, Part 3](https://www.udemy.com/course/stairway-to-scala-applied-part-3/)
 
-<p>Daniel Ciocîrlan has made many video both on Udemy, his website and YouTube. I would start with Scala Applied for a general overview then move onto Daniel Ciocîrlan's course for more an indepth functional and practical approach.</p>
+<p>Daniel Ciocîrlan has made many videos on: Udemy, his website and YouTube. I would start with Scala Applied for a general overview of the language then move onto Daniel Ciocîrlan's course for more an indepth functional and practical approach.</p>
 
 * [Scala & Functional Programming for Beginners | Rock the JVM - Daniel Ciocîrlan](https://www.udemy.com/course/rock-the-jvm-scala-for-beginners/)
 * [Advanced Scala and Functional Programming | Rock the JVM - Daniel Ciocîrlan](https://www.udemy.com/course/advanced-scala/)
@@ -42,6 +42,8 @@ One of the best Scala Developers I have ever met said he learnt Scala by reading
 * [FP-Tower Course - Julien Truffaut](https://www.fp-tower.com/)
 
 ## YouTubers
+
+<p>A special mention and thanks to DevInsideYou, who has all his videos available for free on YouTube</p>
 
 * [DevInsideYou](https://www.youtube.com/c/DevInsideYou/videos)
 * [RockTheJVM](https://www.youtube.com/c/RocktheJVM/videos)
